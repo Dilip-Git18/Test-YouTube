@@ -27,7 +27,7 @@ function timeSince(dateString) {
   
   // Video data including upload dates and initial views
   const videos = [
-    { id: 'stats1', views: 7500000, uploadDate: '2024-10-15' },
+    { id: 'stats1', views: 7500000, uploadDate: '2024-10-18' },
     { id: 'stats2', views: 9200000, uploadDate: '2024-09-12' },
     { id: 'stats3', views: 5200000, uploadDate: '2024-07-04' },
     { id: 'stats4', views: 4300000, uploadDate: '2024-04-27' },
